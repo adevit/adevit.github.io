@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADV&#39;s homepage on ADV</title>
+    <link>https://adevit.github.io/</link>
+    <description>Recent content in ADV&#39;s homepage on ADV</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://adevit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      1</item>
+    
+    <item>
+      <title>ADV&#39;s homepage</title>
+      <link>https://adevit.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/about/</guid>
+      <description>blabla</description>
+    </item>
+    
+    <item>
+      <title>More about me</title>
+      <link>https://adevit.github.io/about_fun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/about_fun/</guid>
+      <description>.right { float: right; }  More about me Life is not all about numerical simulations and data analysis. In this page, I collect some additional information about me that will help you understand better who I am.
+I am a fan of&amp;hellip; (in no particular order)
+blabla</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://adevit.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/publications/</guid>
+      <description>Peer-reviewed publications In chronological order (first is most recent).
+      blabla 
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://adevit.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/research/</guid>
+      <description>.left { float: left; } .right { float: right; } figure { display: table; } figcaption { font-size: 14px; font-style: italic; text-align: center; display: table-caption; caption-side: bottom; }  The intended audience of this page are specialists. You can find the version for the general public here.
+Blabla.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://adevit.github.io/research_general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/research_general/</guid>
+      <description>.left { float: left; } .right { float: right; } figure { display: table; } figcaption { font-size: 14px; font-style: italic; text-align: center; display: table-caption; caption-side: bottom; }  The intended audience of this page is the general public. You can find the version for specialists here.
+blabla.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://adevit.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/resume/</guid>
+      <description>INTERESTS Blabla.
+EDUCATION Expected PhD defense: Dec 2022
+ 2018&amp;ndash;2023  University of Milan &amp;mdash; PhD in Physics, Astrophysics and Applied Physics (GPA:30/30 cum laude, Advisor: Prof. Giorgio Rossi)
+ 2015&amp;ndash;2017  University of Milan &amp;mdash; Master in Physics (110/110 cum laude, Advisor: Prof. Giorgio Rossi)
+ 2012&amp;ndash;2015  University of Milan &amp;mdash; Bachelor in Physics (107/110, Advisor: Prof. Alessandro Podestà).</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://adevit.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adevit.github.io/software/</guid>
+      <description>blabla.</description>
+    </item>
+    
+  </channel>
+</rss>
